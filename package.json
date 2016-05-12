@@ -1,0 +1,15 @@
+{
+	"name": "flickr-viewer",
+	"version": "0.0.1",
+	"description": "Flickr Viewer Application",
+	"repository": "https://docs.moodle.org/30/en/Flickr_public_repository",
+	"license": "",
+	"main": "server.js",
+	"dependencies": {
+		"express": "*",
+		"body-parser": "*",
+		"mocha": "*",
+		"should": "*",
+		"supertest": "*"
+	}
+}
